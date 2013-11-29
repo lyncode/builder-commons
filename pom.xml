@@ -7,7 +7,7 @@
         <version>7</version>
     </parent>
 
-    <groupId>com.lyncode.builder</groupId>
+    <groupId>com.lyncode</groupId>
     <artifactId>builder-commons</artifactId>
     <packaging>jar</packaging>
     <version>1.0.1-SNAPSHOT</version>
